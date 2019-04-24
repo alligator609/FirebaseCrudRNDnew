@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseCrud RND new</string>
+
+    <array name="Geners">
+        <item>Zia</item>
+        <item>Shovo</item>
+        <item>Mamun</item>
+    </array>
+
+
+</resources>
