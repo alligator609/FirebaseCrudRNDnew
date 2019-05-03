@@ -9,9 +9,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by GPI on 3/15/2018.
- */
 
 public class Tracklistclass extends ArrayAdapter<TrackForArtistRating> {
     private Activity context;
