@@ -1,8 +1,6 @@
 package com.zia.alligator.firebasecrudrndnew;
 
-/**
- * Created by GPI on 3/15/2018.
- */
+
 
 public class ArtistClass {
 
