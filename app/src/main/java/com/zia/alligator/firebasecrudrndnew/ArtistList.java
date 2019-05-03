@@ -8,9 +8,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by Showrav on 11/3/2017.
- */
+
 
 public class ArtistList extends ArrayAdapter<ArtistClass> {
     private Activity context;
